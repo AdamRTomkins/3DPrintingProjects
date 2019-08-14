@@ -1,0 +1,1528 @@
+<!DOCTYPE html><html lang="it" data-cast-api-enabled="true"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><script>var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {},info: {}});},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || +new Date();},span: function(l, s, n) {ytcsi.gt(n).span[l] = (typeof s == 'number') ? s :+new Date() - ytcsi.data_.tick[l];},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;}};ytcsi.tick('_start');if (document.webkitVisibilityState == 'prerender') {ytcsi.info('prerender', 1);document.addEventListener('webkitvisibilitychange', function() {ytcsi.tick('_start');}, false);}try {ytcsi.pt_ = (window.chrome && chrome.csi().pageT ||window.gtbExternal && gtbExternal.pageT() ||window.external && external.pageT);if (ytcsi.pt_) {ytcsi.info('pt', Math.floor(ytcsi.pt_));}} catch(e) {}</script>  <link id="css-2808040904" class="www-core" rel="stylesheet" href="http://s.ytimg.com/yts/cssbin/www-core-vfl4jcTB7.css" data-loaded="true">
+  <script>var ytimg = {};ytimg.count = 1;ytimg.preload = function(src) {var img = new Image();var count = ++ytimg.count;ytimg[count] = img;img.onload = img.onerror = function() {delete ytimg[count];};img.src = src;};</script>
+    
+    <script>ytimg.preload("http:\/\/r8---sn-nx5cvox-hpa6.c.youtube.com\/crossdomain.xml");ytimg.preload("http:\/\/r8---sn-nx5cvox-hpa6.c.youtube.com\/generate_204");</script>
+<title>20130323 FREE INDUSTRIAL DESIGN... (Marco Alici, FermoLUG) - YouTube</title><link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=it_IT" title="Ricerca video di YouTube"><link rel="shortcut icon" href="http://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" type="image/x-icon">     <link rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" sizes="32x32"><link rel="canonical" href="http://www.youtube.com/watch?v=ZWLOIle8thM"><link rel="alternate" media="handheld" href="http://m.youtube.com/watch?v=ZWLOIle8thM"><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.youtube.com/watch?v=ZWLOIle8thM"><link rel="shortlink" href="http://youtu.be/ZWLOIle8thM">      <meta name="title" content="20130323 FREE INDUSTRIAL DESIGN... (Marco Alici, FermoLUG)">
+
+      <meta name="description" content="... dal concept al prototipo - dimostrazione d&#39;uso di programmi e stampanti 3D Open Source. 23 Marzo 2013 - &quot;Il Software Libero per combattere la crisi&quot; conv...">
+
+      <meta name="keywords" content="linux, floss, ubuntu, lug, software, opensource, open source, software libero, ipsia, scuola, computer, informatica, 3dprinter, reprap">
+
+      <link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZWLOIle8thM&amp;format=json" title="20130323 FREE INDUSTRIAL DESIGN... (Marco Alici, FermoLUG)">
+  <link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZWLOIle8thM&amp;format=xml" title="20130323 FREE INDUSTRIAL DESIGN... (Marco Alici, FermoLUG)">
+
+        <meta property="og:site_name" content="YouTube">
+    <meta property="og:url" content="http://www.youtube.com/watch?v=ZWLOIle8thM">
+    <meta property="og:title" content="20130323 FREE INDUSTRIAL DESIGN... (Marco Alici, FermoLUG)">
+    <meta property="og:type" content="video">
+    <meta property="og:image" content="http://i1.ytimg.com/vi/ZWLOIle8thM/hqdefault.jpg?feature=og">
+
+      <meta property="og:description" content="... dal concept al prototipo - dimostrazione d&#39;uso di programmi e stampanti 3D Open Source. 23 Marzo 2013 - &quot;Il Software Libero per combattere la crisi&quot; conv...">
+
+        <meta property="og:video" content="http://www.youtube.com/v/ZWLOIle8thM?version=3&amp;autohide=1">
+      <meta property="og:video:type" content="application/x-shockwave-flash">
+      <meta property="og:video:width" content="640">
+      <meta property="og:video:height" content="480">
+
+    <meta property="fb:app_id" content="87741124305">
+
+        <meta name="twitter:card" content="player">
+    <meta name="twitter:site" content="@youtube">
+    <meta name="twitter:url" content="http://www.youtube.com/watch?v=ZWLOIle8thM">
+    <meta name="twitter:title" content="20130323 FREE INDUSTRIAL DESIGN... (Marco Alici, FermoLUG)">
+    <meta name="twitter:description" content="... dal concept al prototipo - dimostrazione d&#39;uso di programmi e stampanti 3D Open Source. 23 Marzo 2013 - &quot;Il Software Libero per combattere la crisi&quot; conv...">
+    <meta name="twitter:image" content="http://i1.ytimg.com/vi/ZWLOIle8thM/hqdefault.jpg">
+    <meta name="twitter:app:name:iphone" content="YouTube">
+    <meta name="twitter:app:id:iphone" content="544007664">
+    <meta name="twitter:app:name:ipad" content="YouTube">
+    <meta name="twitter:app:id:ipad" content="544007664">
+      <meta name="twitter:app:url:iphone" content="vnd.youtube://watch/ZWLOIle8thM">
+      <meta name="twitter:app:url:ipad" content="vnd.youtube://watch/ZWLOIle8thM">
+    <meta name="twitter:app:name:googleplay" content="YouTube">
+    <meta name="twitter:app:id:googleplay" content="com.google.android.youtube">
+    <meta name="twitter:app:url:googleplay" content="http://www.youtube.com/watch?v=ZWLOIle8thM">
+      <meta name="twitter:player" content="https://www.youtube.com/embed/ZWLOIle8thM">
+      <meta name="twitter:player:width" content="640">
+      <meta name="twitter:player:height" content="480">
+
+  
+      <link id="css-1181818654" class="www-watch-transcript" rel="stylesheet" href="http://s.ytimg.com/yts/cssbin/www-watch-transcript-vfl-zKZyz.css" data-loaded="true">
+
+<script>if (window.ytcsi) {ytcsi.tick("ct", null, '');}</script></head><!-- machid: wQXd2S2duTUxidTlaOFMyVDlVU00xdkFlMGp2dW1GSWFwaHNuLXdiaXhTUG1OYmNnSi04OWt3 -->    <body dir="ltr" class="  ltr  ie ie7      site-left-aligned  exp-watch7-comment-ui  hitchhiker-enabled      guide-enabled guide-collapsed sidebar-expanded 
+  " id="body">
+
+  <div id="body-container"><form name="logoutForm" method="POST" action="/logout"><input type="hidden" name="action_logout" value="1"></form>    
+    
+    <div id="yt-masthead-container" class="yt-grid-box yt-base-gutter"><div id="yt-masthead" class="">    <a id="logo-container" href="/" title="Home page di YouTube" class=" "><img id="logo" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Home page di YouTube"><span class="content-region">IT</span></a>
+<div id="yt-masthead-signin"><button onclick=";window.location.href=this.getAttribute(&#39;href&#39;);return false;" href="https://accounts.google.com/ServiceLogin?hl=it_IT&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3Dsign_in_button%26hl%3Dit_IT%26next%3D%252Fwatch%253F%2526v%253DZWLOIle8thM%26nomobiletemp%3D1&amp;passive=true&amp;service=youtube&amp;uilel=3" type="button" class=" yt-uix-button yt-uix-button-primary yt-uix-button-size-default"  role="button">    <span class="yt-uix-button-content">
+Accedi 
+    </span>
+</button></div>  <iframe id="signin-passive" src="https://accounts.google.com/ServiceLogin?hl=it_IT&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3Dpassive%26hl%3Dit_IT%26next%3D%252Fsignin_passive%26nomobiletemp%3D1&amp;passive=true&amp;service=youtube&amp;uilel=3"></iframe>
+<div id="yt-masthead-content"><span id="masthead-upload-button-group"><a href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=mhsb&amp;ei=vDP5UdvYGMPz8APaz4CwBg"><span class="yt-uix-button-content">Carica video</span></a></span><form id="masthead-search" class="search-form consolidated-form" action="/results" onsubmit="if (_gel(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false;"><button dir="ltr" type="submit" id="search-btn" onclick="if (_gel(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false; _gel(&#39;masthead-search&#39;).submit(); return false;;return true;" class="search-btn-component search-button yt-uix-button yt-uix-button-default yt-uix-button-size-default" tabindex="2"  role="button">    <span class="yt-uix-button-content">
+Cerca 
+    </span>
+</button><div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr"><label><input id="masthead-search-term"  class="search-term yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" title="Cerca"></label></div></form></div></div></div>
+    
+  <div id="alerts">
+        <div class="yt-alert yt-alert-default yt-alert-info  " id="yt-lang-alert-container">  <div class="yt-alert-icon">
+    <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Icona di avviso">
+  </div>
+<div class="yt-alert-buttons"><button onclick=";return false;" type="button" class="close yt-uix-close yt-uix-button yt-uix-button-close yt-uix-button-size-default" data-close-parent-class="yt-alert" role="button">    <span class="yt-uix-button-content">
+Chiudi 
+    </span>
+</button></div><div class="yt-alert-content" role="alert">    <span class="yt-alert-vertical-trick"></span>
+    <div class="yt-alert-message">
+            Abbiamo impostato la lingua di preferenza.
+
+    </div>
+</div><div class="yt-alert-panel ">  <div class="yt-grid-box">
+    <div id="yt-lang-alert-text">
+      <span id="default-language-message">
+Abbiamo impostato la lingua di preferenza su <strong>Italiano</strong>. Puoi <a href="#" onclick="yt.www.picker.displayLang();">aggiornare questa preferenza in basso</a>.
+      </span>
+      <span id="default-language-message-english" class="hid">
+        We've set your language preference to <strong>Italian</strong>. You can <a href="#" onclick="yt.www.picker.displayLang();">update this preference below</a>.
+      </span>
+    </div>
+    <div id="yt-lang-alert-links">
+      <a href="//support.google.com/youtube/bin/answer.py?answer=1738660&amp;hl=en-US">Learn more</a><br>
+        <a href="#" onclick="yt.style.toggle('default-language-message', 'default-language-message-english'); return false;">View this message in English</a>
+    </div>
+  </div>
+</div></div>
+    
+
+
+
+
+
+  </div>
+  <div id="header">
+    
+  </div>
+<div id="page-container"><div id="page" class="  watch   clearfix"><div id="guide">      <div id="guide-container" class="    collapsible-guide  loading">
+    <div id="guide-main" class="    guide-module collapsed     spf-nolink ">
+      <div id="guide-loading-toggle" class="guide-module-toggle">
+        <span class="guide-module-toggle-icon">
+          <span class="guide-module-toggle-arrow"></span>
+          <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="">
+        </span>
+        <div class="guide-module-toggle-label">
+          <h3>
+            <span>
+Guida
+            </span>
+          </h3>
+        </div>
+      </div>
+      <div class="guide-module-content">
+          <p class="yt-spinner">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Icona caricamento">
+
+    <span class="yt-spinner-message">
+Caricamento in corso...
+    </span>
+  </p>
+
+      </div>
+    </div>
+  </div>
+
+</div><div id="content">  <div id="watch7-container" class="" itemscope itemid="" itemtype="http://schema.org/VideoObject">
+        <link itemprop="url" href="http://www.youtube.com/watch?v=ZWLOIle8thM">
+    <meta itemprop="name" content="20130323 FREE INDUSTRIAL DESIGN... (Marco Alici, FermoLUG)">
+    <meta itemprop="description" content="... dal concept al prototipo - dimostrazione d&#39;uso di programmi e stampanti 3D Open Source. 23 Marzo 2013 - &quot;Il Software Libero per combattere la crisi&quot; conv...">
+    <meta itemprop="paid" content="False">
+
+      <meta itemprop="channelId" content="UCgNJQPJROIuTUKXlsnmz1oQ">
+      <meta itemprop="videoId" content="ZWLOIle8thM">
+
+      <meta itemprop="duration" content="PT42M48S">
+      <meta itemprop="unlisted" content="False">
+
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <link itemprop="url" href="http://www.youtube.com/user/fermolug">
+        </span>
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <link itemprop="url" href="https://plus.google.com/113747173438175072533">
+        </span>
+
+    <link itemprop="thumbnailUrl" href="http://i1.ytimg.com/vi/ZWLOIle8thM/hqdefault.jpg">
+    <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">
+      <link itemprop="url" href="http://i1.ytimg.com/vi/ZWLOIle8thM/hqdefault.jpg">
+      <meta itemprop="width" content="320">
+      <meta itemprop="height" content="180">
+    </span>
+
+        <link itemprop="embedURL" href="http://www.youtube.com/v/ZWLOIle8thM?version=3&amp;autohide=1">
+      <meta itemprop="playerType" content="Flash">
+      <meta itemprop="width" content="640">
+      <meta itemprop="height" content="480">
+
+      <meta itemprop="isFamilyFriendly" content="True">
+      <meta itemprop="regionsAllowed" content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW">
+
+
+      <div id="player" class="">
+        
+  <div id="playlist">
+    
+  </div>
+
+  <script>if (window.ytcsi) {ytcsi.tick("bf", null, '');}</script>
+
+  <div id="player-unavailable" class="    hid  ">
+    
+  </div>
+
+      <div id="player-api" class="player-width player-height off-screen-target watch-content"></div>
+
+    <script>var ytplayer = ytplayer || {};ytplayer.config = {"sts": 15916, "url_v9as2": "http:\/\/s.ytimg.com\/yts\/swfbin\/cps-vfltZeZpg.swf", "attrs": {"id": "movie_player"}, "url": "http:\/\/s.ytimg.com\/yts\/swfbin\/watch_as3-vfljqmUXI.swf", "html5": false, "url_v8": "http:\/\/s.ytimg.com\/yts\/swfbin\/cps-vfltZeZpg.swf", "assets": {"css": "http:\/\/s.ytimg.com\/yts\/cssbin\/www-player-vfl1KVKy8.css", "html": "\/html5_player_template", "js": "http:\/\/s.ytimg.com\/yts\/jsbin\/html5player-vflm_D8eE.js"}, "args": {"c": "WEB", "cbrver": "7.0", "playlist_module": "http:\/\/s.ytimg.com\/yts\/swfbin\/playlist_module-vflqkUefU.swf", "vq": "auto", "showpopout": 1, "cbr": "IE", "url_encoded_fmt_stream_map": "fallback_host=tc.v15.cache5.c.youtube.com\u0026type=video%2Fwebm%3B+codecs%3D%22vp8.0%2C+vorbis%22\u0026url=http%3A%2F%2Fr8---sn-nx5cvox-hpa6.c.youtube.com%2Fvideoplayback%3Fkey%3Dyt1%26expire%3D1375306862%26mt%3D1375286093%26sparams%3Dcp%252Cid%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26id%3D6562ce2257bcb613%26sver%3D3%26ratebypass%3Dyes%26fexp%3D903945%252C934502%252C916807%252C914082%252C916612%252C909546%252C906397%252C929117%252C929121%252C929906%252C929907%252C925720%252C925722%252C925718%252C925714%252C929917%252C929919%252C912521%252C904492%252C904830%252C919373%252C904122%252C932216%252C908534%252C919387%252C936303%252C929609%252C909549%252C935006%252C900816%252C936301%252C912711%26cp%3DU0hWSlNLVF9LTENONl9LRVhJOmZCb3VFQXRTel80%26upn%3Dh3RfIkszi68%26source%3Dyoutube%26ip%3D79.14.174.3%26mv%3Dm%26itag%3D44%26ipbits%3D8%26ms%3Dau\u0026quality=large\u0026itag=44\u0026sig=D59441E7F570993D97A94C853498793210632E6E.A4793C71E3E613F6B36067FF365F4638E3D1E9D2,fallback_host=tc.v6.cache6.c.youtube.com\u0026type=video%2Fx-flv\u0026url=http%3A%2F%2Fr8---sn-nx5cvox-hpa6.c.youtube.com%2Fvideoplayback%3Fkey%3Dyt1%26factor%3D1.25%26mt%3D1375286093%26sparams%3Dalgorithm%252Cburst%252Ccp%252Cfactor%252Cid%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26fexp%3D903945%252C934502%252C916807%252C914082%252C916612%252C909546%252C906397%252C929117%252C929121%252C929906%252C929907%252C925720%252C925722%252C925718%252C925714%252C929917%252C929919%252C912521%252C904492%252C904830%252C919373%252C904122%252C932216%252C908534%252C919387%252C936303%252C929609%252C909549%252C935006%252C900816%252C936301%252C912711%26id%3D6562ce2257bcb613%26sver%3D3%26algorithm%3Dthrottle-factor%26burst%3D40%26expire%3D1375306862%26cp%3DU0hWSlNLVF9LTENONl9LRVhJOmZCb3VFQXRTel80%26upn%3Dh3RfIkszi68%26source%3Dyoutube%26ip%3D79.14.174.3%26mv%3Dm%26itag%3D35%26ipbits%3D8%26ms%3Dau\u0026quality=large\u0026itag=35\u0026sig=D2FECF771CA479CDD0EB0EE3AA5F9AB4FF875D33.050F0077DDBA3388D67C12C6803A2E809D49EF24,fallback_host=tc.v21.cache1.c.youtube.com\u0026type=video%2Fwebm%3B+codecs%3D%22vp8.0%2C+vorbis%22\u0026url=http%3A%2F%2Fr8---sn-nx5cvox-hpa6.c.youtube.com%2Fvideoplayback%3Fkey%3Dyt1%26expire%3D1375306862%26mt%3D1375286093%26sparams%3Dcp%252Cid%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26id%3D6562ce2257bcb613%26sver%3D3%26ratebypass%3Dyes%26fexp%3D903945%252C934502%252C916807%252C914082%252C916612%252C909546%252C906397%252C929117%252C929121%252C929906%252C929907%252C925720%252C925722%252C925718%252C925714%252C929917%252C929919%252C912521%252C904492%252C904830%252C919373%252C904122%252C932216%252C908534%252C919387%252C936303%252C929609%252C909549%252C935006%252C900816%252C936301%252C912711%26cp%3DU0hWSlNLVF9LTENONl9LRVhJOmZCb3VFQXRTel80%26upn%3Dh3RfIkszi68%26source%3Dyoutube%26ip%3D79.14.174.3%26mv%3Dm%26itag%3D43%26ipbits%3D8%26ms%3Dau\u0026quality=medium\u0026itag=43\u0026sig=1A19F28EEB2114EB4DA55645085CA667AE43EF00.575F033A532DB7843F7BA802FE3B623C7447D8E6,fallback_host=tc.v8.cache2.c.youtube.com\u0026type=video%2Fx-flv\u0026url=http%3A%2F%2Fr8---sn-nx5cvox-hpa6.c.youtube.com%2Fvideoplayback%3Fkey%3Dyt1%26factor%3D1.25%26mt%3D1375286093%26sparams%3Dalgorithm%252Cburst%252Ccp%252Cfactor%252Cid%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26fexp%3D903945%252C934502%252C916807%252C914082%252C916612%252C909546%252C906397%252C929117%252C929121%252C929906%252C929907%252C925720%252C925722%252C925718%252C925714%252C929917%252C929919%252C912521%252C904492%252C904830%252C919373%252C904122%252C932216%252C908534%252C919387%252C936303%252C929609%252C909549%252C935006%252C900816%252C936301%252C912711%26id%3D6562ce2257bcb613%26sver%3D3%26algorithm%3Dthrottle-factor%26burst%3D40%26expire%3D1375306862%26cp%3DU0hWSlNLVF9LTENONl9LRVhJOmZCb3VFQXRTel80%26upn%3Dh3RfIkszi68%26source%3Dyoutube%26ip%3D79.14.174.3%26mv%3Dm%26itag%3D34%26ipbits%3D8%26ms%3Dau\u0026quality=medium\u0026itag=34\u0026sig=9BCA6BDFBDC0FB7965B0085DA98DC1573B0E0BC8.ACA1F19C24F1B9ABD0C01306670C1583E64E0215,fallback_host=tc.v12.cache4.c.youtube.com\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.42001E%2C+mp4a.40.2%22\u0026url=http%3A%2F%2Fr8---sn-nx5cvox-hpa6.c.youtube.com%2Fvideoplayback%3Fkey%3Dyt1%26expire%3D1375306862%26mt%3D1375286093%26sparams%3Dcp%252Cid%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26id%3D6562ce2257bcb613%26sver%3D3%26ratebypass%3Dyes%26fexp%3D903945%252C934502%252C916807%252C914082%252C916612%252C909546%252C906397%252C929117%252C929121%252C929906%252C929907%252C925720%252C925722%252C925718%252C925714%252C929917%252C929919%252C912521%252C904492%252C904830%252C919373%252C904122%252C932216%252C908534%252C919387%252C936303%252C929609%252C909549%252C935006%252C900816%252C936301%252C912711%26cp%3DU0hWSlNLVF9LTENONl9LRVhJOmZCb3VFQXRTel80%26upn%3Dh3RfIkszi68%26source%3Dyoutube%26ip%3D79.14.174.3%26mv%3Dm%26itag%3D18%26ipbits%3D8%26ms%3Dau\u0026quality=medium\u0026itag=18\u0026sig=2C48D35077AE8C4BC4CF8E2684362836FBC38326.D5C5FF52737605EE87AA64F7D6260B06934CE34A,fallback_host=tc.v5.cache3.c.youtube.com\u0026type=video%2Fx-flv\u0026url=http%3A%2F%2Fr8---sn-nx5cvox-hpa6.c.youtube.com%2Fvideoplayback%3Fkey%3Dyt1%26factor%3D1.25%26mt%3D1375286093%26sparams%3Dalgorithm%252Cburst%252Ccp%252Cfactor%252Cid%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26fexp%3D903945%252C934502%252C916807%252C914082%252C916612%252C909546%252C906397%252C929117%252C929121%252C929906%252C929907%252C925720%252C925722%252C925718%252C925714%252C929917%252C929919%252C912521%252C904492%252C904830%252C919373%252C904122%252C932216%252C908534%252C919387%252C936303%252C929609%252C909549%252C935006%252C900816%252C936301%252C912711%26id%3D6562ce2257bcb613%26sver%3D3%26algorithm%3Dthrottle-factor%26burst%3D40%26expire%3D1375306862%26cp%3DU0hWSlNLVF9LTENONl9LRVhJOmZCb3VFQXRTel80%26upn%3Dh3RfIkszi68%26source%3Dyoutube%26ip%3D79.14.174.3%26mv%3Dm%26itag%3D5%26ipbits%3D8%26ms%3Dau\u0026quality=small\u0026itag=5\u0026sig=4CF6DABA8F5CDA9D4262865D0795D534024F71DC.06DC4E4F4DB0125FF213ACDEC1974193E725F8DD,fallback_host=tc.v15.cache5.c.youtube.com\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026url=http%3A%2F%2Fr8---sn-nx5cvox-hpa6.c.youtube.com%2Fvideoplayback%3Fkey%3Dyt1%26factor%3D1.25%26mt%3D1375286093%26sparams%3Dalgorithm%252Cburst%252Ccp%252Cfactor%252Cid%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26fexp%3D903945%252C934502%252C916807%252C914082%252C916612%252C909546%252C906397%252C929117%252C929121%252C929906%252C929907%252C925720%252C925722%252C925718%252C925714%252C929917%252C929919%252C912521%252C904492%252C904830%252C919373%252C904122%252C932216%252C908534%252C919387%252C936303%252C929609%252C909549%252C935006%252C900816%252C936301%252C912711%26id%3D6562ce2257bcb613%26sver%3D3%26algorithm%3Dthrottle-factor%26burst%3D40%26expire%3D1375306862%26cp%3DU0hWSlNLVF9LTENONl9LRVhJOmZCb3VFQXRTel80%26upn%3Dh3RfIkszi68%26source%3Dyoutube%26ip%3D79.14.174.3%26mv%3Dm%26itag%3D36%26ipbits%3D8%26ms%3Dau\u0026quality=small\u0026itag=36\u0026sig=D8C1D13A3B30EEE14E8DC55581DD86573FDD56EA.61249EDB72FEA05845FA5A91A536B8AF91123C08,fallback_host=tc.v21.cache5.c.youtube.com\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026url=http%3A%2F%2Fr8---sn-nx5cvox-hpa6.c.youtube.com%2Fvideoplayback%3Fkey%3Dyt1%26factor%3D1.25%26mt%3D1375286093%26sparams%3Dalgorithm%252Cburst%252Ccp%252Cfactor%252Cid%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26fexp%3D903945%252C934502%252C916807%252C914082%252C916612%252C909546%252C906397%252C929117%252C929121%252C929906%252C929907%252C925720%252C925722%252C925718%252C925714%252C929917%252C929919%252C912521%252C904492%252C904830%252C919373%252C904122%252C932216%252C908534%252C919387%252C936303%252C929609%252C909549%252C935006%252C900816%252C936301%252C912711%26id%3D6562ce2257bcb613%26sver%3D3%26algorithm%3Dthrottle-factor%26burst%3D40%26expire%3D1375306862%26cp%3DU0hWSlNLVF9LTENONl9LRVhJOmZCb3VFQXRTel80%26upn%3Dh3RfIkszi68%26source%3Dyoutube%26ip%3D79.14.174.3%26mv%3Dm%26itag%3D17%26ipbits%3D8%26ms%3Dau\u0026quality=small\u0026itag=17\u0026sig=CB5C8DC65E4DA07713CFF1F927E593C33515344F.AAA716351CCF534ACC2D0A41F73336C060F8F82F", "enablejsapi": 1, "ldpj": "-13", "watermark": ",http:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_watermark-vflHX6b6E.png,http:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_hd_watermark-vflAzLcD6.png", "rvs": "title=Linux+Day+2012+-+3.+Secure+Boot%3A+la+fine+di+GNU%2FLinux+sui+desktop%3F+%28A.+Colangelo%29\u0026view_count=577\u0026length_seconds=3730\u0026author=fermolug\u0026id=uFBFw8vG-gg,title=22%2F01%2F2011+-+Ubuntu%40Fermo\u0026view_count=129\u0026length_seconds=13051\u0026author=fermolug\u0026id=NU9dDUCzQwQ,title=Linux+Day+2012+-+1.+Open+Data%2C+open+business+%28M.+Ciccola%29\u0026view_count=61\u0026length_seconds=2673\u0026author=fermolug\u0026id=GbZ1GS8z-1g,title=Sbilanciamoci+2012+workshop+-+1.+Introduzione+al+software+libero+%28A.+Colangelo%29\u0026view_count=96\u0026length_seconds=2632\u0026author=fermolug\u0026id=3UDpDkfSjdE,title=17%2F04%2F2007+-+Primo+Corso+Linux+%28Introduzione%29\u0026view_count=135\u0026length_seconds=1921\u0026author=fermolug\u0026id=jvpxbd9xVRQ,title=Stampante+3D+e+open+hardware+-+Paolo+Cirillo+Martini\u0026view_count=1.298\u0026length_seconds=3043\u0026author=Asciudine\u0026id=srqouGWeKkE,title=23%2F10%2F2010+--+LinuxDay+2010\u0026view_count=59\u0026length_seconds=12175\u0026author=fermolug\u0026id=pdeWIYI0gFs,title=20130323+GNU+LINUX%3A+nascita+ed+evoluzione+di+un+progetto+che+sta+cambiando+il+mondo+%28A.+Colangelo%29\u0026view_count=56\u0026length_seconds=3478\u0026author=fermolug\u0026id=Xtc1nTT2aV4,title=Introduzione+al+Software+Libero+%28A.+Colangelo%29\u0026view_count=133\u0026length_seconds=3983\u0026author=fermolug\u0026id=SPt4hw8MIgM,title=Linux+Day+2012+-+2.+Linux+per+professionisti+e+manager+%28Ing.+N.+Benedetti%29\u0026view_count=82\u0026length_seconds=2233\u0026author=fermolug\u0026id=jr0hCDBNS20,title=Sbilanciamoci+2012+workshop+-+3.+Il+FLOSS+nella+Pubblica+Amministrazione+%28M.+Ciccola%29\u0026view_count=43\u0026length_seconds=2772\u0026author=fermolug\u0026id=2oiQwPXeeXM,title=Linux+Day+2012+-+4.+Reprap%3A+stampa+3D+open+source+da+scrivania+%28M.+Alici%29\u0026view_count=257\u0026length_seconds=918\u0026author=fermolug\u0026id=aaBd8bTQb_8", "allow_embed": 1, "eventid": "vDP5UdvYGMPz8APaz4CwBg", "cc3_module": "http:\/\/s.ytimg.com\/yts\/swfbin\/subtitles3_module-vflqlhiX7.swf", "ptk": "youtube_none", "video_id": "ZWLOIle8thM", "ucid": "UCgNJQPJROIuTUKXlsnmz1oQ", "keywords": "linux,floss,ubuntu,lug,software,opensource,open source,software libero,ipsia,scuola,computer,informatica,3dprinter,reprap", "cr": "IT", "title": "20130323 FREE INDUSTRIAL DESIGN... (Marco Alici, FermoLUG)", "referrer": null, "fexp": "903945,934502,916807,914082,916612,909546,906397,929117,929121,929906,929907,925720,925722,925718,925714,929917,929919,912521,904492,904830,919373,904122,932216,908534,919387,936303,929609,909549,935006,900816,936301,912711", "thumbnail_num_shards": 1, "cc_asr": 1, "sendtmp": "1", "timestamp": 1375286204, "ttsurl": "http:\/\/www.youtube.com\/api\/timedtext?key=yttt1\u0026caps=asr\u0026v=ZWLOIle8thM\u0026sparams=asr_langs%2Ccaps%2Cv%2Cexpire\u0026asr_langs=it%2Cfr%2Ces%2Cnl%2Cen%2Cru%2Cko%2Cde%2Cpt%2Cja\u0026hl=it_IT\u0026signature=7F44475794B592727C410783EF882EEAC18CBD05.ED969B9419E0194E7F899ACF64854BEAE2C6BEE1\u0026expire=1375311404", "account_playback_token": "PKkOeNrnXhalmls0mUNh_4JMMOJ8MTM3NTM3MjYwNEAxMzc1Mjg2MjA0", "cc_module": "http:\/\/s.ytimg.com\/yts\/swfbin\/subtitle_module-vflTArH70.swf", "cc_font": "Arial Unicode MS, arial, verdana, _sans", "subtitles_xlb": "http:\/\/s.ytimg.com\/yts\/xlbbin\/subtitles-strings-it_IT-vflcveM8U.xlb", "plid": "AATi0MWtsk2g2wBM", "t": "vjVQa1PpcFN3sCm6Wi8wBB1Am14O5oxD1LKHx4gO1_0=", "endscreen_module": "http:\/\/s.ytimg.com\/yts\/swfbin\/endscreen-vflz-_fGB.swf", "sk": "GLUCyR2hF_IOSgtAHfzBeY3q18v1TQXOC", "autohide": "2", "csi_page_type": "watch,watch7", "length_seconds": 2568, "enablecsi": "1", "cosver": "6.1", "fmt_list": "44\/854x480\/99\/0\/0,35\/854x480\/9\/0\/115,43\/640x360\/99\/0\/0,34\/640x360\/9\/0\/115,18\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0,36\/320x240\/99\/0\/0,17\/176x144\/99\/0\/0", "share_icons": "http:\/\/s.ytimg.com\/yts\/swfbin\/sharing-vflF4tO1T.swf", "storyboard_spec": "http:\/\/i1.ytimg.com\/sb\/ZWLOIle8thM\/storyboard3_L$L\/$N.jpg|48#27#100#10#10#0#default#aivqLK23D0Ir2y7WHiWZW2ToOj0|60#45#258#10#10#10000#M$M#Out3vlqb4i6g9V4XnsKNAcRIxHw|120#90#258#5#5#10000#M$M#2zZms369lnmEERqgOPbRZk4tkBc", "hl": "it_IT", "idpj": "-5", "cos": "Windows", "pltype": "contentugc", "watch_xlb": "http:\/\/s.ytimg.com\/yts\/xlbbin\/watch-strings-it_IT-vfl5iZcE-.xlb", "loudness": -20.078994751}, "params": {"allowscriptaccess": "always", "allowfullscreen": "true", "bgcolor": "#000000"}, "min_version": "8.0.0"};</script>    <script>
+      (function() {
+        var encoded = [];
+        for (var key in ytplayer.config.args) {
+          encoded.push(encodeURIComponent(key) + '=' + encodeURIComponent(ytplayer.config.args[key]));
+        }
+        var swf = "    \u003cobject classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"movie_player\"\u003e\u003cparam name=\"movie\" value=\"http:\/\/s.ytimg.com\/yts\/swfbin\/watch_as3-vfljqmUXI.swf\"\u003e\u003cparam name=\"flashvars\" value=\"__flashvars__\"\u003e\u003cparam name=\"allowscriptaccess\" value=\"always\"\u003e\u003cparam name=\"allowfullscreen\" value=\"true\"\u003e\u003cparam name=\"bgcolor\" value=\"#000000\"\u003e\u003cdiv class=\"yt-alert yt-alert-default yt-alert-error  yt-alert-player\"\u003e  \u003cdiv class=\"yt-alert-icon\"\u003e\n    \u003cimg s\u0072c=\"\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" class=\"icon master-sprite\" alt=\"Icona di avviso\"\u003e\n  \u003c\/div\u003e\n\u003cdiv class=\"yt-alert-buttons\"\u003e\u003c\/div\u003e\u003cdiv class=\"yt-alert-content\" role=\"alert\"\u003e    \u003cspan class=\"yt-alert-vertical-trick\"\u003e\u003c\/span\u003e\n    \u003cdiv class=\"yt-alert-message\"\u003e\n            Per guardare questo video \u00e8 necessario Adobe Flash Player. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eScaricalo dal sito di Adobe\u003c\/a\u003e.\n    \u003c\/div\u003e\n\u003c\/div\u003e\u003c\/div\u003e\u003c\/object\u003e\n";
+        swf = swf.replace('__flashvars__', encoded.join('&'));
+        document.getElementById("player-api").innerHTML = swf;
+        ytplayer.config.loaded = true
+      })();
+    </script>
+
+
+  <div id="playlist-tray">
+    
+  </div>
+
+  
+
+  <div id="player-branded-banner">
+    
+  </div>
+
+      </div>
+
+    <div id="watch7-main-container">
+      <div id="watch7-main" class="clearfix">
+        <div id="watch7-content" class="watch-content">
+              <div class="yt-uix-button-panel">
+        <div id="watch7-headline" class="clearfix  yt-uix-expander yt-uix-expander-collapsed">
+    <h1 id="watch-headline-title" class="yt">
+      
+
+
+  
+
+
+  <span id="eow-title" class="watch-title long-title yt-uix-expander-head" dir="ltr" title="20130323 FREE INDUSTRIAL DESIGN... (Marco Alici, FermoLUG)">
+    20130323 FREE INDUSTRIAL DESIGN... (Marco Alici, FermoLUG)
+  </span>
+
+    </h1>
+  </div>
+
+      <div id="watch7-user-header"><a href="/user/fermolug?feature=watch" class="yt-user-photo " >    <span class="video-thumb  yt-thumb yt-thumb-48"
+      >
+      <span class="yt-thumb-square">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="fermolug" src="https://lh3.googleusercontent.com/-uwZeIk06qrk/AAAAAAAAAAI/AAAAAAAAAAA/PXXYQH5Hw4c/s48-c-k/photo.jpg" width="48" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+</a><a href="/user/fermolug?feature=watch" class="yt-uix-sessionlink yt-user-name " data-sessionlink="feature=watch&amp;ei=vDP5UdvYGMPz8APaz4CwBg" dir="ltr">fermolug</a><span class="yt-user-separator">&middot;</span><a class="yt-uix-sessionlink yt-user-videos"href="/user/fermolug/videos"data-sessionlink="feature=watch&amp;ei=vDP5UdvYGMPz8APaz4CwBg">30 video</a><br><span id="watch7-subscription-container"><span class=" yt-uix-button-subscription-container with-preferences" ><button aria-live="polite" type="button" class="yt-uix-subscription-button yt-uix-button yt-uix-button-subscribe-branded yt-uix-button-size-default" aria-busy="false" onclick=";return false;" aria-role="button" data-style-type="branded" data-sessionlink="feature=watch&amp;ved=CBcQmys&amp;ei=vDP5UdvYGMPz8APaz4CwBg" data-channel-external-id="UCgNJQPJROIuTUKXlsnmz1oQ" data-href="https://accounts.google.com/ServiceLogin?hl=en_US&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbVduemUwbnRZeUpSR2FCWnNWNWs0Zm9FZVllUXxBQ3Jtc0tsRVhWdnpTX0RTTTRLVEZFNS1DenZtTUNQR0ZwXzE2bjc0R1BIMlg3TU1nQTduOVR1aml3QUtVVTBQQldhNVNibTNaQldKZk5ZQ0FINEViNm0xbUFTZjJmRU9peTc1Zlg5cTREcWpET0ExMFFoN0IzYXpRSTdMNXFkSkNpOTkyVERhWjJRU3czODRjVmY5eDduYk9KdDB5V25NNU44VDhCd05wZ2NBQXpGOThuU01IMEdNcU5COEFWOW5peU8teVlPUERKZWg%253D%26feature%3Dsubscribe%26hl%3Den_US%26next%3D%252Fchannel%252FUCgNJQPJROIuTUKXlsnmz1oQ%26nomobiletemp%3D1&amp;passive=true&amp;service=youtube&amp;uilel=3" role="button">    <span class="yt-uix-button-icon-wrapper">
+      <img class="yt-uix-button-icon yt-uix-button-icon-subscribe" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="">
+      <span class="yt-uix-button-valign"></span>
+    </span>
+    <span class="yt-uix-button-content">
+<span class="subscribe-label" aria-label="Iscriviti">Iscriviti</span><span class="subscribed-label" aria-label="Annulla">Iscritto</span><span class="unsubscribe-label" aria-label="Annulla">Annulla</span> 
+    </span>
+</button><button onclick=";return false;" type="button" class="yt-uix-subscription-preferences-button yt-uix-button yt-uix-button-default yt-uix-button-size-default yt-uix-button-empty" data-channel-external-id="UCgNJQPJROIuTUKXlsnmz1oQ" role="button">    <span class="yt-uix-button-icon-wrapper">
+      <img class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="">
+      <span class="yt-uix-button-valign"></span>
+    </span>
+</button><span class="yt-subscription-button-subscriber-count-branded-horizontal" >23</span>  <span class="yt-subscription-button-disabled-mask" title=""></span>
+  
+  <div class="yt-uix-overlay " data-overlay-style="primary"data-overlay-shape="tiny">
+    
+        <div class="yt-dialog hid" >
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg">
+        <div class="yt-dialog-fg-content">
+            <div class="yt-dialog-header">
+              <h2 class="yt-dialog-title">
+                      Preferenze di iscrizione
+
+
+              </h2>
+            </div>
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+    <div class="yt-spinner-img"></div><div class="yt-dialog-waiting-text">Caricamento in corso...</div>
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div class="subscription-preferences-overlay-content-container">
+    <div class="subscription-preferences-overlay-loading ">
+        <p class="yt-spinner">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Icona caricamento">
+
+    <span class="yt-spinner-message">
+Caricamento in corso...
+    </span>
+  </p>
+
+    </div>
+    <div class="subscription-preferences-overlay-content">
+    </div>
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div id="yt-dialog-working-overlay">
+  </div>
+  <div id="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+      <div class="yt-spinner-img"></div><div class="yt-dialog-waiting-text">Elaborazione in corso...</div>
+    </div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+</span></span><div id="watch7-views-info">      <span class="watch-view-count " >
+    
+99 visualizzazioni
+  </span>
+
+    <div class="video-extras-sparkbars">
+    <div class="video-extras-sparkbar-likes" style="width: 0%"></div>
+    <div class="video-extras-sparkbar-dislikes" style="width: 0%"></div>
+  </div>
+  <span class="video-extras-likes-dislikes">
+      <img class="icon-watch-stats-like" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Mi piace">
+  <span class="likes-count">0</span>
+ &nbsp;&nbsp;&nbsp;   <img class="icon-watch-stats-dislike" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Non mi piace">
+  <span class="dislikes-count">0</span>
+
+  </span>
+
+</div></div>
+        <div id="watch7-action-buttons" class="clearfix">
+    <div id="watch7-sentiment-actions">
+      <span id="watch-like-dislike-buttons" class="yt-uix-button-group " data-vote-state="2" data-button-toggle-group="optional"><span class="yt-uix-clickcard"><button type="button" class="yt-uix-clickcard-target yt-uix-button yt-uix-button-text yt-uix-button-size-default yt-uix-tooltip" id="watch-like" onclick=";return false;" title="" data-like-tooltip="Mi piace" data-unlike-tooltip="Non mi piace più" data-orientation="vertical" data-button-toggle="true" data-force-position="true" data-position="bottomright" role="button">    <span class="yt-uix-button-icon-wrapper">
+      <img class="yt-uix-button-icon yt-uix-button-icon-watch-like" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="">
+      <span class="yt-uix-button-valign"></span>
+    </span>
+    <span class="yt-uix-button-content">
+Mi piace 
+    </span>
+</button>  <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Accedi a YouTube</h3>
+    <div class="watch7-hovercard-message">
+      Accedi con il tuo account Google (YouTube, Google+, Gmail, Orkut, Picasa o Chrome) per aggiungere il video di <span class="yt-user-name " dir="ltr">fermolug</span> ai video piaciuti.
+
+    </div>
+    <ul class="watch7-hovercard-icon-strip clearfix">
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-youtube-icon"></div>
+      </li>
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-gplus-icon"></div>
+      </li>
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-gmail-icon"></div>
+      </li>
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-picasa-icon"></div>
+      </li>
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-chrome-icon"></div>
+      </li>
+    </ul>
+    <div class="watch7-hovercard-account-line">
+      <a href="https://accounts.google.com/ServiceLogin?hl=it_IT&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3D__FEATURE__%26hl%3Dit_IT%26next%3D%252Fwatch%253F%2526v%253DZWLOIle8thM%26nomobiletemp%3D1&amp;passive=true&amp;service=youtube&amp;uilel=3" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=vDP5UdvYGMPz8APaz4CwBg"><span class="yt-uix-button-content">Accedi</span></a>
+    </div>
+  </div>
+</span><span class="yt-uix-clickcard"><button type="button" class="yt-uix-clickcard-target yt-uix-button yt-uix-button-text yt-uix-button-size-default yt-uix-tooltip yt-uix-button-empty" id="watch-dislike" onclick=";return false;" title="Non mi piace" data-button-toggle="true" data-force-position="true" data-orientation="vertical" data-position="bottomright" role="button">    <span class="yt-uix-button-icon-wrapper">
+      <img class="yt-uix-button-icon yt-uix-button-icon-watch-dislike" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Non mi piace" title="">
+      <span class="yt-uix-button-valign"></span>
+    </span>
+</button>  <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Accedi a YouTube</h3>
+    <div class="watch7-hovercard-message">
+      Accedi con il tuo account Google (YouTube, Google+, Gmail, Orkut, Picasa o Chrome) per comunicare che non ti piace il video di <span class="yt-user-name " dir="ltr">fermolug</span>.
+
+    </div>
+    <ul class="watch7-hovercard-icon-strip clearfix">
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-youtube-icon"></div>
+      </li>
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-gplus-icon"></div>
+      </li>
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-gmail-icon"></div>
+      </li>
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-picasa-icon"></div>
+      </li>
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-chrome-icon"></div>
+      </li>
+    </ul>
+    <div class="watch7-hovercard-account-line">
+      <a href="https://accounts.google.com/ServiceLogin?hl=it_IT&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3D__FEATURE__%26hl%3Dit_IT%26next%3D%252Fwatch%253F%2526v%253DZWLOIle8thM%26nomobiletemp%3D1&amp;passive=true&amp;service=youtube&amp;uilel=3" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=vDP5UdvYGMPz8APaz4CwBg"><span class="yt-uix-button-content">Accedi</span></a>
+    </div>
+  </div>
+</span></span>
+    </div>
+    <div id="watch7-secondary-actions"  class="yt-uix-button-group" data-button-toggle-group="required">
+        <span >
+    <button onclick=";return false;" title="" type="button" class="action-panel-trigger  yt-uix-button-toggled yt-uix-button yt-uix-button-text yt-uix-button-size-default yt-uix-tooltip" data-button-toggle="true" data-trigger-for="action-panel-details" role="button">    <span class="yt-uix-button-content">
+Informazioni 
+    </span>
+</button>
+  </span>
+
+          <span >
+    <button onclick=";return false;" title="" type="button" class="action-panel-trigger   yt-uix-button yt-uix-button-text yt-uix-button-size-default yt-uix-tooltip" data-button-toggle="true" data-trigger-for="action-panel-share" role="button">    <span class="yt-uix-button-content">
+Condividi 
+    </span>
+</button>
+  </span>
+
+          <span class="yt-uix-clickcard">
+    <button onclick=";return false;" title="" type="button" class="action-panel-trigger   yt-uix-clickcard-target yt-uix-button yt-uix-button-text yt-uix-button-size-default yt-uix-tooltip" data-trigger-for="action-panel-none" data-upsell="playlist" data-orientation="vertical" data-button-toggle="true" data-force-position="true" data-position="bottomleft" role="button">    <span class="yt-uix-button-content">
+Aggiungi a 
+    </span>
+</button>
+        <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Accedi a YouTube</h3>
+    <div class="watch7-hovercard-message">
+      Accedi con il tuo account Google (YouTube, Google+, Gmail, Orkut, Picasa o Chrome) per aggiungere il video di <span class="yt-user-name " dir="ltr">fermolug</span> alla tua playlist.
+
+    </div>
+    <ul class="watch7-hovercard-icon-strip clearfix">
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-youtube-icon"></div>
+      </li>
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-gplus-icon"></div>
+      </li>
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-gmail-icon"></div>
+      </li>
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-picasa-icon"></div>
+      </li>
+      <li class="watch7-hovercard-icon">
+        <div class="watch7-hovercard-chrome-icon"></div>
+      </li>
+    </ul>
+    <div class="watch7-hovercard-account-line">
+      <a href="https://accounts.google.com/ServiceLogin?hl=it_IT&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3D__FEATURE__%26hl%3Dit_IT%26next%3D%252Fwatch%253F%2526v%253DZWLOIle8thM%26nomobiletemp%3D1&amp;passive=true&amp;service=youtube&amp;uilel=3" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=vDP5UdvYGMPz8APaz4CwBg"><span class="yt-uix-button-content">Accedi</span></a>
+    </div>
+  </div>
+
+  </span>
+
+          <span >
+    <button onclick=";return false;" title="Trascrizione" type="button" class="action-panel-trigger   yt-uix-button yt-uix-button-text yt-uix-button-size-default yt-uix-tooltip yt-uix-button-empty" data-button-toggle="true" data-trigger-for="action-panel-transcript" role="button">    <span class="yt-uix-button-icon-wrapper">
+      <img class="yt-uix-button-icon yt-uix-button-icon-action-panel-transcript" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Trascrizione" title="">
+      <span class="yt-uix-button-valign"></span>
+    </span>
+</button>
+  </span>
+
+          <span >
+    <button onclick=";return false;" title="Statistiche" type="button" class="action-panel-trigger   yt-uix-button yt-uix-button-text yt-uix-button-size-default yt-uix-tooltip yt-uix-button-empty" data-button-toggle="true" data-trigger-for="action-panel-stats" role="button">    <span class="yt-uix-button-icon-wrapper">
+      <img class="yt-uix-button-icon yt-uix-button-icon-action-panel-stats" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Statistiche" title="">
+      <span class="yt-uix-button-valign"></span>
+    </span>
+</button>
+  </span>
+
+
+        <span >
+    <button onclick=";return false;" title="Segnala" type="button" class="action-panel-trigger   yt-uix-button yt-uix-button-text yt-uix-button-size-default yt-uix-tooltip yt-uix-button-empty" data-button-toggle="true" data-trigger-for="action-panel-report" role="button">    <span class="yt-uix-button-icon-wrapper">
+      <img class="yt-uix-button-icon yt-uix-button-icon-action-panel-report" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Segnala" title="">
+      <span class="yt-uix-button-valign"></span>
+    </span>
+</button>
+  </span>
+
+    </div>
+  </div>
+
+        <div id="watch7-action-panels" class="yt-uix-button-panel">
+      <div id="action-panel-details" class="action-panel-content ">
+    <div id="watch-description" class="yt-uix-expander yt-uix-expander-collapsed yt-uix-button-panel">
+      <div id="watch-description-content" >
+        <div id="watch-description-clip">
+          <p id="watch-uploader-info">
+            <strong>Pubblicato in data <span id="eow-date" class="watch-video-date" >30/mar/2013</span>
+</strong>
+          </p>
+          <div id="watch-description-text">
+            <p id="eow-description" >... dal concept al prototipo - dimostrazione d&#39;uso di programmi e stampanti 3D Open Source.<br /><br />23 Marzo 2013 - &quot;Il Software Libero per combattere la crisi&quot; convegno organizzato dal FermoLUG in collaborazione con l&#39;I.P.S.I.A. &quot;Ostilio Ricci&quot; di Fermo (<a href="http://www.ipsiafermo.it" target="_blank" title="http://www.ipsiafermo.it" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://www.ipsiafermo.it</a>)</p>
+          </div>
+            <div id="watch-description-extras">
+    <ul class="watch-extras-section">
+      <li>
+        <h4 class="title">
+Categoria
+        </h4>
+        <div class="content">
+              <p id="eow-category"><a href="/science">Scienze e tecnologie</a></p>
+
+        </div>
+      </li>
+
+
+        <li>
+          <h4 class="title">Licenza</h4>
+          <div class="content">
+              <p id="eow-reuse">
+<a href="/t/creative_commons" target="_blank">Licenza Creative Commons Attribuzione</a> (riutilizzo consentito)</a>
+  </p>
+
+          </li>
+        </li>
+    </ul>
+  </div>
+
+        </div>
+        <ul id="watch-description-extra-info">
+          
+        </ul>
+      </div>
+
+      <div id="watch-description-toggle" class="yt-uix-expander-head yt-uix-button-panel">
+        <div id="watch-description-expand" class="expand">
+          <button onclick=";return false;" type="button" class="metadata-inline yt-uix-button yt-uix-button-text yt-uix-button-size-default"  role="button">    <span class="yt-uix-button-content">
+Mostra altro 
+    </span>
+</button>
+        </div>
+        <div id="watch-description-collapse" class="collapse">
+          <button onclick=";return false;" type="button" class="metadata-inline yt-uix-button yt-uix-button-text yt-uix-button-size-default"  role="button">    <span class="yt-uix-button-content">
+Mostra meno 
+    </span>
+</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+      <div id="action-panel-share" class="action-panel-content hid">
+      <div id="watch-actions-share-loading">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Icona caricamento">
+
+    <span class="yt-spinner-message">
+Caricamento in corso...
+    </span>
+  </p>
+
+    </div>
+  </div>
+  <div id="watch-actions-share-panel"></div>
+
+  </div>
+
+      <div id="action-panel-addto" class="action-panel-content hid" data-auth-required="true">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Icona caricamento">
+
+    <span class="yt-spinner-message">
+Caricamento in corso...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+        <div id="action-panel-transcript" class="action-panel-content hid">
+    <div id="watch-actions-transcript-loading">
+      <div class="action-panel-loading">
+          <p class="yt-spinner">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Icona caricamento">
+
+    <span class="yt-spinner-message">
+Caricamento in corso...
+    </span>
+  </p>
+
+      </div>
+    </div>
+      <div id="watch-actions-transcript" class="watch-actions-panel hid">
+      <div id="caption-line-template" class="hid">
+    <!--
+    <div class="caption-line-time">
+      <div class="caption-line-start">__start__</div>
+    </div>
+    <div class="editable-line-text">
+      <span class="editable-line-text-original">__original__</span>
+      <label class="editable-line-text-current hid">__current__</label>
+      <textarea class="editable-line-text-input hid">__input__</textarea>
+    </div>
+    -->
+  </div>
+
+
+
+    <div id="watch-transcript-container" >
+      <div id="watch-transcript-not-found" class="hid">
+Impossibile caricare la trascrizione interattiva.
+      </div>
+
+      
+    </div>
+  </div>
+
+  </div>
+
+      <div id="action-panel-stats" class="action-panel-content hid">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Icona caricamento">
+
+    <span class="yt-spinner-message">
+Caricamento in corso...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+      <div id="action-panel-report" class="action-panel-content hid" data-auth-required="true">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Icona caricamento">
+
+    <span class="yt-spinner-message">
+Caricamento in corso...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+      <div id="action-panel-login" class="action-panel-content hid">
+    <div class="action-panel-login">
+      <a href="https://accounts.google.com/ServiceLogin?hl=it_IT&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3D__FEATURE__%26hl%3Dit_IT%26next%3D%252Fwatch%253F%2526v%253DZWLOIle8thM%26nomobiletemp%3D1&amp;passive=true&amp;service=youtube&amp;uilel=3" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=vDP5UdvYGMPz8APaz4CwBg"><span class="yt-uix-button-content">Accedi</span></a>
+    </div>
+  </div>
+
+  <div id="action-panel-ratings-disabled" class="action-panel-content hid">
+      <div id="watch-actions-ratings-disabled" class="watch-actions-panel">
+    <em>Le votazioni per questo video sono state disattivate.</em>
+  </div>
+
+  </div>
+
+  <div id="action-panel-rental-required" class="action-panel-content hid">
+      <div id="watch-actions-rental-required" class="watch-actions-panel">
+    <strong>Il voto è disponibile una volta noleggiato il video.</strong>
+  </div>
+
+  </div>
+
+  <div id="action-panel-error" class="action-panel-content hid">
+    <div class="action-panel-error">
+      Questa funzione non è attualmente disponibile. Riprova più tardi.
+    </div>
+  </div>
+
+    <div id="watch7-action-panel-footer">
+        <hr class="yt-horizontal-rule ">
+
+    </div>
+  </div>
+
+  </div>
+          <div class="cmt_iframe_holder" data-href="http://www.youtube.com/watch?v=ZWLOIle8thM" data-viewtype="FILTERED_POSTMOD" style="display: none;"></div>
+
+  <div id="watch-discussion">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Icona caricamento">
+
+    <span class="yt-spinner-message">
+Caricamento in corso...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+
+        </div>
+        <div id="watch7-sidebar" class="watch-sidebar">
+            
+  <div id="watch7-sidebar-discussion"></div>
+
+
+
+          <div class="watch-sidebar-section">
+
+    <div class="watch-sidebar-body">
+      <ul id="watch-related" class="video-list">
+        <li class="video-list-item related-list-item"><a href="/watch?v=uFBFw8vG-gg" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CAMQzRooAA&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/uFBFw8vG-gg/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">1:02:10</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="uFBFw8vG-gg" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="Linux Day 2012 - 3. Secure Boot: la fine di GNU/Linux sui desktop? (A. Colangelo)">Linux Day 2012 - 3. Secure Boot: la fine di GNU/Linux sui desktop? (A. Colangelo)</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+577 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=NU9dDUCzQwQ" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CAQQzRooAQ&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/NU9dDUCzQwQ/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">3:37:31</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="NU9dDUCzQwQ" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="22/01/2011 - Ubuntu@Fermo">22/01/2011 - Ubuntu@Fermo</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+129 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=GbZ1GS8z-1g" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CAUQzRooAg&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/GbZ1GS8z-1g/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">44:33</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="GbZ1GS8z-1g" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="Linux Day 2012 - 1. Open Data, open business (M. Ciccola)">Linux Day 2012 - 1. Open Data, open business (M. Ciccola)</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+61 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=3UDpDkfSjdE" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CAYQzRooAw&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/3UDpDkfSjdE/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">43:52</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="3UDpDkfSjdE" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="Sbilanciamoci 2012 workshop - 1. Introduzione al software libero (A. Colangelo)">Sbilanciamoci 2012 workshop - 1. Introduzione al software libero (A. Colangelo)</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+96 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=jvpxbd9xVRQ" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CAcQzRooBA&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/jvpxbd9xVRQ/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">32:01</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="jvpxbd9xVRQ" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="17/04/2007 - Primo Corso Linux (Introduzione)">17/04/2007 - Primo Corso Linux (Introduzione)</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+135 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=srqouGWeKkE" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=related&ved=CAgQzRooBQ&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/srqouGWeKkE/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">50:43</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="srqouGWeKkE" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="Stampante 3D e open hardware - Paolo Cirillo Martini">Stampante 3D e open hardware - Paolo Cirillo Martini</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">Asciudine</span></span>    <span class="stat view-count">
+        
+1.298 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=pdeWIYI0gFs" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CAkQzRooBg&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/pdeWIYI0gFs/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">3:22:55</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="pdeWIYI0gFs" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="23/10/2010 -- LinuxDay 2010">23/10/2010 -- LinuxDay 2010</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+59 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=Xtc1nTT2aV4" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CAoQzRooBw&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/Xtc1nTT2aV4/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">57:58</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="Xtc1nTT2aV4" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="20130323 GNU LINUX: nascita ed evoluzione di un progetto che sta cambiando il mondo (A. Colangelo)">20130323 GNU LINUX: nascita ed evoluzione di un progetto che sta cambiando il mondo (A. Colangelo)</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+56 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=SPt4hw8MIgM" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CAsQzRooCA&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/SPt4hw8MIgM/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">1:06:23</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="SPt4hw8MIgM" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="Introduzione al Software Libero (A. Colangelo)">Introduzione al Software Libero (A. Colangelo)</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+133 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=jr0hCDBNS20" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CAwQzRooCQ&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/jr0hCDBNS20/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">37:13</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="jr0hCDBNS20" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="Linux Day 2012 - 2. Linux per professionisti e manager (Ing. N. Benedetti)">Linux Day 2012 - 2. Linux per professionisti e manager (Ing. N. Benedetti)</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+82 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=2oiQwPXeeXM" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CA0QzRooCg&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/2oiQwPXeeXM/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">46:12</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="2oiQwPXeeXM" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="Sbilanciamoci 2012 workshop - 3. Il FLOSS nella Pubblica Amministrazione (M. Ciccola)">Sbilanciamoci 2012 workshop - 3. Il FLOSS nella Pubblica Amministrazione (M. Ciccola)</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+43 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=aaBd8bTQb_8" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CA4QzRooCw&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/aaBd8bTQb_8/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">15:18</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="aaBd8bTQb_8" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="Linux Day 2012 - 4. Reprap: stampa 3D open source da scrivania (M. Alici)">Linux Day 2012 - 4. Reprap: stampa 3D open source da scrivania (M. Alici)</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+257 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=563piIEBzDw" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=related&ved=CA8QzRooDA&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/563piIEBzDw/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">10:58</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="563piIEBzDw" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="SuperQuark 2011 - La stampante 3d digital forming">SuperQuark 2011 - La stampante 3d digital forming</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">RAiscienze</span></span>    <span class="stat view-count">
+        
+57.204 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=OxkLtZz7ehc" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=related&ved=CBAQzRooDQ&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/OxkLtZz7ehc/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">1:16:59</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="OxkLtZz7ehc" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="Sketching and Design - Lecture 1">Sketching and Design - Lecture 1</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">purdueme553</span></span>    <span class="stat view-count">
+        
+181 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=OMqtNhGSZ1w" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=related&ved=CBEQzRooDg&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/OMqtNhGSZ1w/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">1:00:03</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="OMqtNhGSZ1w" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="FOSSpod 6: Ubuntu per tablet e molto altro!">FOSSpod 6: Ubuntu per tablet e molto altro!</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">Mattia Migliorini</span></span></a></li><li class="video-list-item related-list-item"><a href="/watch?v=JCOylrh6cnk" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=related&ved=CBIQzRooDw&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/JCOylrh6cnk/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">1:21:40</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="JCOylrh6cnk" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="Bill&#39;s Design Talks: Scott Wilson">Bill&#39;s Design Talks: Scott Wilson</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">Cooper-Hewitt National Design Museum</span></span>    <span class="stat view-count">
+        
+2.276 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=iNBqGGSCerU" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CBMQzRooEA&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/iNBqGGSCerU/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">5:31</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="iNBqGGSCerU" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="20130417-fermonews_rtmfermotv_canale218">20130417-fermonews_rtmfermotv_canale218</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+86 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=maWPH7iep3I" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CBQQzRooEQ&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/maWPH7iep3I/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">36:43</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="maWPH7iep3I" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="20120622-ConfSL6a-Software Libero e trashware alla Scuola Ugo Betti by Andrea C. e Cristian M.">20120622-ConfSL6a-Software Libero e trashware alla Scuola Ugo Betti by Andrea C. e Cristian M.</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+30 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=EBx47-sz9oo" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=relmfu&ved=CBUQzRooEg&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/EBx47-sz9oo/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">20:39</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="EBx47-sz9oo" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="20130323 Software Libero: opportunità per la scuola e le imprese - GeoGebra (C. Minnucci)">20130323 Software Libero: opportunità per la scuola e le imprese - GeoGebra (C. Minnucci)</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">fermolug</span></span>    <span class="stat view-count">
+        
+21 visualizzazioni
+    </span>
+</a></li><li class="video-list-item related-list-item"><a href="/watch?v=UtR7qt87TT4" class="related-video yt-uix-contextlink  yt-uix-sessionlink" data-sessionlink="feature=related&ved=CBYQzRooEw&ei=vDP5UdvYGMPz8APaz4CwBg"><span class="ux-thumb-wrap contains-addto ">    <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <span class="yt-thumb-clip-inner">
+            <img alt="" data-thumb="//i1.ytimg.com/vi/UtR7qt87TT4/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" >
+            <span class="vertical-align"></span>
+          </span>
+        </span>
+      </span>
+    </span>
+<span class="video-time">9:01</span>
+
+  <button type="button" class="addto-button video-actions spf-nolink addto-watch-later-button-sign-in yt-uix-button yt-uix-button-default yt-uix-button-size-small yt-uix-tooltip" onclick=";return false;" title="Guarda più tardi" data-video-ids="UtR7qt87TT4" data-button-menu-id="shared-addto-watch-later-login" role="button">    <span class="yt-uix-button-content">
+  <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Guarda più tardi">
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+</span><span dir="ltr" class="title" title="E se domani: stampa 3d e laser cutter">E se domani: stampa 3d e laser cutter</span><span class="stat attribution">di <span class="yt-user-name " dir="ltr">Ivan Bortolin</span></span>    <span class="stat view-count">
+        
+2.086 visualizzazioni
+    </span>
+</a></li>
+            <div id="watch-more-related" class="hid">
+    <li id="watch-more-related-loading">
+Caricamento di altri suggerimenti in corso...
+    </li>
+  </div>
+  <button onclick=";return false;" type="button" class=" yt-uix-button yt-uix-button-default yt-uix-button-size-default" id="watch-more-related-button" data-button-action="yt.www.watch.related.loadMore" role="button">    <span class="yt-uix-button-content">
+Carica altri suggerimenti 
+    </span>
+</button>
+
+      </ul>
+    </div>   </div> 
+
+        </div>
+      </div>
+    </div>
+
+      <div style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;">
+  </div>
+
+  </div>
+</div></div></div></div><div id="footer-container" class="yt-base-gutter"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/" title="Home page di YouTube"><img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Home page di YouTube"></a></div>  <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+      <li>
+          
+  <button onclick=";return false;" type="button" class=" yt-uix-button yt-uix-button-default yt-uix-button-size-default" id="yt-picker-language-button" data-button-action="yt.www.picker.load" data-picker-key="language" data-button-toggle="true" data-picker-position="footer" data-button-menu-id="arrow-display" role="button">    <span class="yt-uix-button-icon-wrapper">
+      <img class="yt-uix-button-icon yt-uix-button-icon-footer-language" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title="">
+      <span class="yt-uix-button-valign"></span>
+    </span>
+    <span class="yt-uix-button-content">
+  <span class="yt-picker-button-label">
+Lingua:
+  </span>
+  Italiano
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+
+
+      </li>
+      <li>
+          
+  <button onclick=";return false;" type="button" class=" yt-uix-button yt-uix-button-default yt-uix-button-size-default" id="yt-picker-country-button" data-button-action="yt.www.picker.load" data-picker-key="country" data-button-toggle="true" data-picker-position="footer" data-button-menu-id="arrow-display" role="button">    <span class="yt-uix-button-content">
+  <span class="yt-picker-button-label">
+Paese:
+  </span>
+  Italia
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+
+
+      </li>
+      <li>
+          
+  <button onclick=";return false;" type="button" class=" yt-uix-button yt-uix-button-default yt-uix-button-size-default" id="yt-picker-safetymode-button" data-button-action="yt.www.picker.load" data-picker-key="safetymode" data-button-toggle="true" data-picker-position="footer" data-button-menu-id="arrow-display" role="button">    <span class="yt-uix-button-content">
+  <span class="yt-picker-button-label">
+Sicurezza:
+  </span>
+Disattivata
+ 
+    </span>
+<img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></button>
+
+
+      </li>
+  </ul>
+  <button type="button" class="yt-uix-button-reverse yt-uix-button yt-uix-button-default yt-uix-button-size-default" id="google-help" onclick="yt.www.feedback.startHelp(this, null, &quot;watch&quot;);return false;"  role="button">    <span class="yt-uix-button-content">
+  <img class="questionmark" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif">
+  <span>Guida</span>
+    <img class="yt-uix-button-arrow" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif">
+ 
+    </span>
+</button>
+      <div id="yt-picker-language-footer"
+      class="yt-picker"
+      style="display: none"
+>
+      <p class="yt-spinner">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Icona caricamento">
+
+    <span class="yt-spinner-message">
+Caricamento in corso...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-country-footer"
+      class="yt-picker"
+      style="display: none"
+>
+      <p class="yt-spinner">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Icona caricamento">
+
+    <span class="yt-spinner-message">
+Caricamento in corso...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-safetymode-footer"
+      class="yt-picker"
+      style="display: none"
+>
+      <p class="yt-spinner">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Icona caricamento">
+
+    <span class="yt-spinner-message">
+Caricamento in corso...
+    </span>
+  </p>
+
+  </div>
+
+</div><div id="footer-links"><ul id="footer-links-primary">  <li><a href="//www.youtube.com/yt/about/it/">Informazioni</a></li>
+  <li><a href="//www.youtube.com/yt/press/it/">Centro stampa e blog</a></li>
+  <li><a href="//www.youtube.com/yt/copyright/it/">Copyright</a></li>
+  <li><a href="//www.youtube.com/yt/creators/it/">Creativi e partner</a></li>
+  <li><a href="//www.youtube.com/yt/advertise/it/">Pubblicità</a></li>
+  <li><a href="//www.youtube.com/yt/dev/it/">Sviluppatori</a></li>
+</ul><ul id="footer-links-secondary">  <li><a href="/t/terms">Termini</a></li>
+  <li><a href="http://www.google.it/intl/it/policies/privacy/">Privacy</a></li>
+  <li><a href="//www.youtube.com/yt/policyandsafety/it/">
+Norme e sicurezza
+  </a></li>
+  <li><a href="//www.google.com/tools/feedback/intl/it/error.html" onclick="return yt.www.feedback.start();" id="reportbug">Invia commenti</a></li>
+  <li><a href="/testtube">Prova qualcosa di nuovo!</a></li>
+  <li></li>
+</ul></div></div></div>
+
+      <div class="yt-dialog hid" id="feed-privacy-lb">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg">
+        <div class="yt-dialog-fg-content">
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+    <div class="yt-spinner-img"></div><div class="yt-dialog-waiting-text">Caricamento in corso...</div>
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div id="feed-privacy-dialog">
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div id="yt-dialog-working-overlay">
+  </div>
+  <div id="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+      <div class="yt-spinner-img"></div><div class="yt-dialog-waiting-text">Elaborazione in corso...</div>
+    </div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div id="shared-addto-watch-later-login" class="hid">
+      <a href="https://accounts.google.com/ServiceLogin?hl=it_IT&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3Dplaylist%26hl%3Dit_IT%26next%3D%252Fwatch%253F%2526v%253DZWLOIle8thM%26nomobiletemp%3D1&passive=true&service=youtube&uilel=3" class="sign-in-link">Accedi</a> per aggiungerlo a Guarda più tardi
+
+    </div>
+
+  <div id="shared-addto-menu" style="display: none;" class="hid sign-in">
+      <div class="addto-menu">
+        <div id="addto-list-panel" class="menu-panel active-panel">
+        <span class="yt-uix-button-menu-item yt-uix-tooltip sign-in"data-possible-tooltip=""data-tooltip-show-delay="750"><img class="playlist-checkmark" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""><a href="https://accounts.google.com/ServiceLogin?hl=it_IT&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3Dplaylist%26hl%3Dit_IT%26next%3D%252Fwatch%253F%2526v%253DZWLOIle8thM%26nomobiletemp%3D1&passive=true&service=youtube&uilel=3" class="sign-in-link">Accedi</a> per aggiungerlo a Guarda più tardi
+</span>
+
+  </div>
+  <div id="addto-list-saving-panel" class="menu-panel">
+    <div class="addto-loading loading-content">
+        <p class="yt-spinner">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Icona caricamento">
+
+    <span class="yt-spinner-message">
+        Caricamento playlist in corso...
+    </span>
+  </p>
+
+    </div>
+  </div>
+  <div id="addto-list-saved-panel" class="menu-panel">
+    <div class="panel-content">
+      <div class="yt-alert yt-alert-naked yt-alert-success  ">  <div class="yt-alert-icon">
+    <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Icona di avviso">
+  </div>
+<div class="yt-alert-content" role="alert">    <span class="yt-alert-vertical-trick"></span>
+    <div class="yt-alert-message">
+            
+  <span class="message">Aggiunto a <span class="addto-title yt-uix-tooltip yt-uix-tooltip-reverse" title="Ulteriori informazioni su questa playlist" data-tooltip-show-delay="750"></span></span>
+
+    </div>
+</div></div>
+        <div class="yt-alert yt-alert-naked yt-alert-warn  private-video-warning hid">  <div class="yt-alert-icon">
+    <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Icona di avviso">
+  </div>
+<div class="yt-alert-content" role="alert">    <span class="yt-alert-vertical-trick"></span>
+    <div class="yt-alert-message">
+            I video privati ​​verranno ignorati se gli spettatori non possono accedervi, ma le note nelle playlist sono pubblicamente visibili.
+    </div>
+</div></div>
+
+    </div>
+  </div>
+  <div id="addto-list-error-panel" class="menu-panel">
+    <div class="panel-content">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif">
+      <span class="error-details"></span>
+      <a class="show-menu-link">Torna all'elenco</a>
+    </div>
+  </div>
+
+        <div id="addto-note-input-panel" class="menu-panel">
+    <div class="panel-content">
+      <div class="yt-alert yt-alert-naked yt-alert-success  ">  <div class="yt-alert-icon">
+    <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Icona di avviso">
+  </div>
+<div class="yt-alert-content" role="alert">    <span class="yt-alert-vertical-trick"></span>
+    <div class="yt-alert-message">
+              <span class="message">Aggiunto a playlist:</span>
+  <span class="addto-title yt-uix-tooltip" title="Ulteriori informazioni su questa playlist" data-tooltip-show-delay="750"></span>
+
+    </div>
+</div></div>
+        <div class="yt-alert yt-alert-naked yt-alert-warn  private-video-warning hid">  <div class="yt-alert-icon">
+    <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Icona di avviso">
+  </div>
+<div class="yt-alert-content" role="alert">    <span class="yt-alert-vertical-trick"></span>
+    <div class="yt-alert-message">
+            I video privati ​​verranno ignorati se gli spettatori non possono accedervi, ma le note nelle playlist sono pubblicamente visibili.
+    </div>
+</div></div>
+
+    </div>
+<div class="yt-uix-char-counter" data-char-limit="150"><div class="addto-note-box addto-text-box"><textarea id="addto-note" class="addto-note yt-uix-char-counter-input" maxlength="150"></textarea><label for="addto-note" class="addto-note-label">Aggiungi una nota facoltativa</label></div><span class="yt-uix-char-counter-remaining">150</span></div>    <button onclick=";return false;" type="button" class="playlist-save-note yt-uix-button yt-uix-button-default yt-uix-button-size-default" disabled="disabled"  role="button">    <span class="yt-uix-button-content">
+Aggiungi nota 
+    </span>
+</button>
+  </div>
+  <div id="addto-note-saving-panel" class="menu-panel">
+    <div class="panel-content loading-content">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif">
+      <span>Salvataggio della nota in corso...</span>
+    </div>
+  </div>
+  <div id="addto-note-saved-panel" class="menu-panel">
+    <div class="panel-content">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif">
+      <span class="message">Nota aggiunta a:</span>
+    </div>
+  </div>
+  <div id="addto-note-error-panel" class="menu-panel">
+    <div class="panel-content">
+      <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif">
+      <span class="message">Errore nell'aggiunta della nota:</span>
+      <ul class="error-details"></ul>
+      <a class="add-note-link">Fai clic per aggiungere una nuova nota</a>
+    </div>
+  </div>
+  <div class="close-note hid">
+    <img src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="close-button">
+  </div>
+
+  </div>
+
+  </div>
+<script>var ytspf = ytspf || {};ytspf.enabled = false;</script><script>if (window.ytcsi) {ytcsi.tick("js_head", null, '');}</script>  <script id="js-2536988445" class="spf" src="//s.ytimg.com/yts/jsbin/spf-vfliqhOyc.js" data-loaded="true"></script>
+  <script id="js-3106202321" class="www_base_mod" src="//s.ytimg.com/yts/jsbin/www-vfl2sD-5a/www_base_mod.js" data-loaded="true"></script>
+      <script>
+    yt.setConfig({
+      'VIDEO_ID': "ZWLOIle8thM",
+      'THUMBNAIL_NUM_SHARDS': 1,
+
+      'JS_PAGE_MODULES': {
+        "\/\/s.ytimg.com\/yts\/jsbin\/www-vfl2sD-5a\/www_watch_mod.js": [
+            "\/\/s.ytimg.com\/yts\/jsbin\/www-vfl2sD-5a\/www_watch_transcript_mod.js",
+          ''         ]
+      },
+
+
+      'REPORTVIDEO_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-reportvideo-vflfAqwSX.js",
+      'REPORTVIDEO_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-watch-reportvideo-vflzqn8VY.css",
+
+        'IS_RESUMABLE_PLAYBACK': true,
+
+      'WATCH_MISSILECOMMAND_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-watch-missilecommand-vfleo8mcM.js",
+      'WATCH_MISSILECOMMAND_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-watch-missile-command-vflX0tYnD.css",
+
+        'WATCH7_DELAYED_COMMENTS_AND_GUIDE': true,
+
+
+
+      'ENABLE_AUTO_LARGE': true
+
+    });
+
+
+    yt.setAjaxToken('insight_ajax', "zQ0gum0FL_Qkm5bj8pUL973m1xV8MTM3NTM3MjYwNEAxMzc1Mjg2MjA0");
+    yt.setAjaxToken('watch_fragments_ajax', "ohFab3-qe3qeniwy_Z6pg22Iobp8MTM3NTM3MjYwNEAxMzc1Mjg2MjA0");
+    yt.setAjaxToken('guide_ajax', "o10ten_GLgbsBPAsvWsIYkWA-it8MTM3NTM3MjYwNEAxMzc1Mjg2MjA0");
+    yt.setAjaxToken('promo_ajax_token', "Is-DlHAE-w_MIkSoCqeAD9OT8Ql8MTM3NTM3MjYwNEAxMzc1Mjg2MjA0");
+
+      yt.setConfig({
+    'EMBED_HTML_TEMPLATE': "\u003ciframe width=\"__width__\" height=\"__height__\" src=\"__url__\" frameborder=\"0\" allowfullscreen\u003e\u003c\/iframe\u003e",
+    'EMBED_HTML_URL': "http:\/\/www.youtube.com\/embed\/__videoid__"
+  });
+    yt.setMsg('FLASH_UPGRADE', "\u003cdiv class=\"yt-alert yt-alert-default yt-alert-error  yt-alert-player\"\u003e  \u003cdiv class=\"yt-alert-icon\"\u003e\n    \u003cimg s\u0072c=\"\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" class=\"icon master-sprite\" alt=\"Icona di avviso\"\u003e\n  \u003c\/div\u003e\n\u003cdiv class=\"yt-alert-buttons\"\u003e\u003c\/div\u003e\u003cdiv class=\"yt-alert-content\" role=\"alert\"\u003e    \u003cspan class=\"yt-alert-vertical-trick\"\u003e\u003c\/span\u003e\n    \u003cdiv class=\"yt-alert-message\"\u003e\n            Devi eseguire l'upgrade del tuo Adobe Flash Player per guardare questo video. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eScaricalo dal sito di Adobe\u003c\/a\u003e.\n    \u003c\/div\u003e\n\u003c\/div\u003e\u003c\/div\u003e");
+  yt.setMsg('PLAYER_FALLBACK', "Per la riproduzione dei video \u00e8 richiesto Adobe Flash Player o un browser che supporti l'HTML5. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eProcurati la versione pi\u00f9 recente di Flash Player\u003c\/a\u003e \u003cbr\u003e \u003ca href=\"\/html5\"\u003eUlteriori informazioni sull'upgrade a un browser HTML5\u003c\/a\u003e");
+  yt.setMsg('QUICKTIME_FALLBACK', "Per la riproduzione dei video \u00e8 richiesto Adobe Flash Player o QuickTime. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eScarica la versione pi\u00f9 recente di Flash Player\u003c\/a\u003e \u003cbr\u003e \u003ca href=\"http:\/\/www.apple.com\/quicktime\/download\/\"\u003eScarica la versione pi\u00f9 recente di QuickTime\u003c\/a\u003e");
+
+
+
+    yt.setConfig({
+      'TIMING_WFF': true,
+      'WATCH_GUIDE_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-guide-vflmM3WnP.css",
+      'PLAY_ALL_MAX': 480,
+      'YPC_CAN_RATE_VIDEO': true,
+
+        'WATCH_CONTEXT_CONTAINER_TEMPLATE': "    \u003cdiv id=\"context-source-container\"data-context-source=\"__source__\"data-context-image=\"__image__\"style=\"display:none;\"\u003e\u003c\/div\u003e\u003cdiv class=\"__container_classes__\"\u003e\u003cdiv class=\"guide-module-toggle context-header\"\u003e\u003cspan class=\"guide-module-toggle-icon\"\u003e\u003cspan class=\"guide-module-toggle-arrow\"\u003e\u003c\/span\u003e\u003cimg src=\"\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" alt=\"\"\u003e\u003c\/span\u003e\u003ca class=\"context-back-link yt-uix-sessionlink\" href=\"__back_link__\" data-sessionlink=\"feature=__feature__\u0026amp;ei=vDP5UdvYGMPz8APaz4CwBg\"\u003e\u003cspan class=\"guide-context-image-link\"\u003e\u003cspan class=\"thumb guide-context-image\"\u003e\u003cimg id=\"context-image\" src=\"\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" alt=\"\" data-context-image=\"__image__\"\u003e\u003c\/span\u003e\u003c\/span\u003e\u003cdiv class=\"guide-module-toggle-label\"\u003e\u003ch3 class=\"context-title\"\u003e\u003cspan\u003e__headline__\u003c\/span\u003e\u003c\/h3\u003e\u003cspan class=\"placeholder\" title=\"__more_from__\" dir=\"__title_dir__\"\u003e__more_from__\u003c\/span\u003e\u003c\/div\u003e\u003c\/a\u003e\u003c\/div\u003e\u003cdiv class=\"guide-module-content yt-scrollbar\"\u003e\u003chr class=\"guide-section-separator guide-context-separator-top\"\u003e\u003cul id=\"watch-context-item-list\" class=\"guide-context-item-container context-data-container yt-uix-scroller guide-context-body\" data-context-playing=\"__click_index__\" data-context-open=\"true\" data-context-subsource=\"__subsource__\" data-scroll-action=\"yt.www.watch.context.loadThumbnails\"\u003e__item_list__\u003c\/ul\u003e\u003chr class=\"guide-section-separator guide-context-separator-bottom\"\u003e\u003c\/div\u003e\u003c\/div\u003e\n",
+        'WATCH_CONTEXT_VIDEO_TEMPLATE': "    \u003cli class=\"guide-context-item context-data-item context-video yt-uix-scroller-scroll-unit __item_classes__\" data-context-item-title=\"__video_title__\" data-context-item-type=\"video\" data-context-item-time=\"__video_time__\" data-context-item-views=\"__view_count__\" data-context-item-id=\"__video_id__\" data-context-item-actionverb=\"__action_verb__\" data-context-item-actionuser=\"__action_username__\" data-context-item-user=\"__user_name__\"\u003e\u003ca href=\"\/watch?v=__video_id__\" class=\"yt-uix-contextlink yt-uix-sessionlink \" data-sessionlink=\"feature=__feature__\u0026amp;ei=vDP5UdvYGMPz8APaz4CwBg\"\u003e    \u003cspan class=\"video-thumb context-video-thumb yt-thumb yt-thumb-40\"\n      \u003e\n      \u003cspan class=\"yt-thumb-default\"\u003e\n        \u003cspan class=\"yt-thumb-clip\"\u003e\n          \u003cspan class=\"yt-thumb-clip-inner\"\u003e\n            \u003cimg alt=\"\" data-group-key=\"guide-context-thumbs\" data-thumb=\"\/\/i1.ytimg.com\/vi\/__video_id__\/default.jpg\" data-thumb-manual=\"1\" src=\"http:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" width=\"40\" \u003e\n            \u003cspan class=\"vertical-align\"\u003e\u003c\/span\u003e\n          \u003c\/span\u003e\n        \u003c\/span\u003e\n      \u003c\/span\u003e\n    \u003c\/span\u003e\n\u003cspan class=\"title\"\u003e__video_title__\u003c\/span\u003e\u003cspan class=\"username\"\u003edi __user_name__\n\u003c\/span\u003e\u003cspan class=\"viewcount\"\u003e__view_count__\u003c\/span\u003e\u003cspan class=\"action\"\u003e__action_username__ __action_verb__\u003c\/span\u003e\u003c\/a\u003e\u003c\/li\u003e\n",
+        'WATCH_CONTEXT_PLAYLIST_TEMPLATE': "    \u003cli class=\"guide-context-item context-data-item context-playlist yt-uix-scroller-scroll-unit __item_classes__\" data-context-item-title=\"__playlist_title__\" data-context-item-type=\"playlist\" data-context-item-count=\"__video_count__\" data-context-item-id=\"__playlist_id__\" data-context-item-actionverb=\"__action_verb__\" data-context-item-count-label=\"__video_count_label__\" data-context-item-actionuser=\"__action_username__\" data-context-item-user=\"\u0026quot;__user_name__\u0026quot;\" data-context-item-videos=\"[\u0026quot;__playlist_video_id__\u0026quot;]\"\u003e\u003ca href=\"\/watch?v=__playlist_video_id__\u0026amp;list=__playlist_id__\" class=\"yt-uix-contextlink yt-uix-sessionlink \" data-sessionlink=\"feature=__feature__\u0026amp;ei=vDP5UdvYGMPz8APaz4CwBg\"\u003e\u003cspan class=\"context-video-thumb yt-pl-thumb\"\u003e    \u003cspan class=\"video-thumb  yt-thumb yt-thumb-40\"\n      \u003e\n      \u003cspan class=\"yt-thumb-default\"\u003e\n        \u003cspan class=\"yt-thumb-clip\"\u003e\n          \u003cspan class=\"yt-thumb-clip-inner\"\u003e\n            \u003cimg alt=\"\" data-group-key=\"guide-context-thumbs\" data-thumb=\"\/\/i1.ytimg.com\/vi\/__playlist_video_id__\/default.jpg\" data-thumb-manual=\"1\" src=\"http:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" width=\"40\" \u003e\n            \u003cspan class=\"vertical-align\"\u003e\u003c\/span\u003e\n          \u003c\/span\u003e\n        \u003c\/span\u003e\n      \u003c\/span\u003e\n    \u003c\/span\u003e\n  \u003cspan class=\"video-count-wrapper\"\u003e\n    \u003cspan class=\"video-count-block\"\u003e\n      \u003cspan class=\"count-label\"\u003e__video_count__\u003c\/span\u003e\n      \u003cspan class=\"text-label\"\u003e__video_count_label__\u003c\/span\u003e\n    \u003c\/span\u003e\n  \u003c\/span\u003e\n\u003c\/span\u003e\u003cspan class=\"title\"\u003e__playlist_title__\u003c\/span\u003e\u003cspan class=\"username\"\u003edi __user_name__\n\u003c\/span\u003e\u003cspan class=\"action\"\u003e__action_username__ __action_verb__\u003c\/span\u003e\u003c\/a\u003e\u003c\/li\u003e\n",
+        'WATCH_CONTEXT_APPBAR_TEMPLATE': "  \u003cli  id=\"appbar-item-context\" class=\"appbar-item\"\u003e\u003cbutton onclick=\";return false;\" type=\"button\" class=\" yt-uix-button yt-uix-button-appbar yt-uix-button-size-default\" data-button-menu-fixed=\"True\" data-button-menu-id=\"appbar-context-menu\" data-button-menu-action=\"yt.www.masthead.appbar.toggleMenu\" role=\"button\"\u003e    \u003cspan class=\"yt-uix-button-content\"\u003e\n\u003cspan class=\"appbar-notification-count\"\u003e__item_count__\u003c\/span\u003e__headline__\u0026nbsp;\u003cspan title=\"__more_from__\" dir=\"__title_dir__\"\u003e__more_from__\u003c\/span\u003e \n    \u003c\/span\u003e\n\u003cimg class=\"yt-uix-button-arrow\" src=\"\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" alt=\"\" title=\"\"\u003e\u003c\/button\u003e\u003c\/li\u003e\n",
+
+
+
+
+      'HL_LOCALE': "it_IT",
+      'IS_AGE_GATED': false,
+
+      'TTS_URL': "http:\/\/www.youtube.com\/api\/timedtext?key=yttt1\u0026caps=asr\u0026v=ZWLOIle8thM\u0026sparams=asr_langs%2Ccaps%2Cv%2Cexpire\u0026asr_langs=it%2Cfr%2Ces%2Cnl%2Cen%2Cru%2Cko%2Cde%2Cpt%2Cja\u0026hl=it_IT\u0026signature=7F44475794B592727C410783EF882EEAC18CBD05.ED969B9419E0194E7F899ACF64854BEAE2C6BEE1\u0026expire=1375311404",
+      'JS_DELAY_LOAD': 0,
+      'LIST_AUTO_PLAY_VALUE': null,
+      'SHUFFLE_VALUE': null,
+      'SKIP_TO_NEXT_VIDEO': false,
+      'WATCH_CONTEXT_GEN204': true,
+      'BRANDED_BACKGROUND_IMAGE': null,
+      'BRANDED_BACKGROUND_COLOR': null,
+      'SPF_PREFETCH': false,
+      'SPF_PREFETCH_MAX': null,
+      'IS_OWNER_VIEWING': null,
+      'IS_WIDESCREEN': false,
+      'PREFER_LOW_QUALITY': false,
+      'ALLOW_EMBED': true,
+      'ALLOW_RATINGS': true,
+      'RESUME_COOKIE_NAME': null,
+      'ARTIST_ID': null,
+      'LIST_END_TIME': null,
+      'CONVERSION_CONFIG_DICT': null,
+      'RESOLUTION_TRACKING_ENABLED': false,
+      'WATCH_REFRESH_TIMEOUT': 0,
+      'SHARE_ON_VIDEO_PAUSE': null,
+      'ADS_DATA': {"show_companion": false, "show_instream": false, "show_afv": false, "show_afc": false, "show_pyv": true, "fetch_ads_in_page": false, "use_gut": false, "pyv_vars": {"iframe_json": "{\"google_ad_channel\": \"PyvWatchInRelated+PyvYTWatch+PyvWatchNoAdX+lpw+afv_ugc+yt_mpvid_AATi0MWuJjIikq5j+ytdevice_1+Vertical_3+Vertical_5+Vertical_24+Vertical_653+Vertical_655\", \"google_max_num_ads\": 1, \"google_page_url\": \"http:\\\/\\\/www.youtube.com\\\/video\\\/ZWLOIle8thM\", \"google_ad_output\": \"js\", \"google_only_pyv_ads\": true, \"google_video_doc_id\": \"yt_ZWLOIle8thM\", \"google_ad_block\": \"3\", \"google_ad_client\": \"ca-pub-6219811747049371\", \"google_ad_type\": \"text\", \"google_language\": \"it\"}", "measure_latency": false}},
+      'PLAYBACK_ID': "AATi0MWtsk2g2wBM",
+      'IS_ACTIVE_LIVE_VIDEO': false,
+      'WATCH7_MANUAL_DELAY': null
+    });
+
+    yt.setMsg({
+      'WATCH_CONTEXT_MORE_FROM': "Altro da",
+      'WATCH_CONTEXT_MORE_RESULTS': "Altri risultati",
+        'HTML5_SUBS_ASR': "sottotitoli automatici",
+      'LOADING': "Caricamento in corso..."    });
+
+    
+
+      yt.setMsg({
+    'UNBLOCK_USER': "Sbloccare questo utente?",
+    'BLOCK_USER': "Bloccare questo utente?"
+  });
+  yt.setConfig('BLOCK_USER_AJAX_XSRF', 'session_token=4K-frxXL2PyflBo-SJteuCSIrSh8MTM3NTM3MjYwNEAxMzc1Mjg2MjA0');
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+  </script>
+
+
+<script>yt.setConfig({'EVENT_ID': "vDP5UdvYGMPz8APaz4CwBg",'PAGE_NAME': "watch",'LOGGED_IN': false,'SESSION_INDEX': null,'DELEGATED_SESSION_ID': null,'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_HINT_PARAMS': "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.ttZ9tAb8XrM.O\/m=__features__\/am=EA\/rt=j\/d=1\/rs=AItRSTP3CJxcMrRUdx1_I61ycmx3Rf99QA",'GAPI_LOCALE': "it_IT",'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'MASTHEAD_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-masthead-vflYd197V.js",'JS_COMMON_MODULE': "\/\/s.ytimg.com\/yts\/jsbin\/www-vfl2sD-5a\/www_common_mod.js",'SAFETY_MODE_PENDING': false,'I18N_PLURAL_RULES': function(n) { return (n == 1) ? 'one' : 'other'; },'LOCAL_DATE_TIME_CONFIG': {"months": ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"], "shortMonths": ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"], "formatLongDateOnly": "dd MMMM yyyy", "weekdays": ["domenica", "luned\u00ec", "marted\u00ec", "mercoled\u00ec", "gioved\u00ec", "venerd\u00ec", "sabato"], "formatShortDate": "dd\/MMM\/yyyy", "formatLongDate": "dd MMMM yyyy H:mm", "shortWeekdays": ["dom", "lun", "mar", "mer", "gio", "ven", "sab"], "amPms": null, "formatWeekdayShortTime": "EE H:mm"},'PAGE_CL': 50113771,'PAGE_BUILD_TIMESTAMP': "Tue Jul 30 11:33:03 2013 (1375209183)",'FEEDBACK_BUCKET_ID': "Watch",'FEEDBACK_LOCALE_LANGUAGE': "it",'FEEDBACK_LOCALE_EXTRAS': {"guide_subs": "NA", "is_branded": "", "accept_language": null, "experiments": "903945,934502,916807,914082,916612,909546,906397,929117,929121,929906,929907,925720,925722,925718,925714,929917,929919,912521,904492,904830,919373,904122,932216,908534,919387,936303,929609,909549,935006,900816,936301,912711", "is_partner": "", "logged_in": false}});yt.setMsg({'ADDTO_WATCH_LATER': "Guarda pi\u00f9 tardi",'ADDTO_WATCH_LATER_ADDED': "Aggiunto",'ADDTO_WATCH_LATER_ERROR': "Errore"});yt.setAjaxToken('addto_ajax_logged_out', "xTX39gYBpRzvTjnmFE_z6J1yUNZ8MTM3NTM3MjYwNEAxMzc1Mjg2MjA0");  yt.setConfig('FEED_PRIVACY_CSS_URL', "http:\/\/s.ytimg.com\/yts\/cssbin\/www-feedprivacydialog-vfloueF35.css");
+  yt.setAjaxToken('feed_privacy_ajax', "0du-eGkSX1O9Xd4Xe0GL70nYZgt8MTM3NTM3MjYwNEAxMzc1Mjg2MjA0");
+    yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/\/s.ytimg.com\/yts\/jsbin\/www-searchbox-vflh9_fSg.js",'SBOX_SETTINGS': {"HAS_ON_SCREEN_KEYBOARD": false, "USE_HTTPS": false, "PSUGGEST_TOKEN": null, "REQUEST_LANGUAGE": "it", "SESSION_INDEX": null, "CHIP_PARAMETERS": {}, "REQUEST_DOMAIN": "it", "EXPERIMENT_ID": -1, "CLOSE_ICON_URL": "\/\/s.ytimg.com\/yts\/img\/icons\/close-vflrEJzIW.png", "SHOW_CHIP": false},'SBOX_LABELS': {"SUGGESTION_DISMISS_LABEL": "Ignora", "VIEW_CHANNEL_LABEL": "Visualizza canale", "WATCH_NOW_LABEL": "Guarda adesso", "SUGGESTION_DISMISSED_LABEL": "Suggerimento rimosso"}});  yt.setConfig({
+    'YPC_LOADER_ENABLED': true,
+    'YPC_LOADER_CONFIGS': "\/ypc_config_ajax",
+    'YPC_LOADER_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-ypc-vflQcGoqN.js",
+    'YPC_LOADER_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-ypc-vfl7OlCUa.css",
+    'YPC_LOADER_CALLBACKS': ['yt.www.ypc.checkout.init', 'yt.www.ypc.subscription.init']
+  });
+</script>    <script>
+ytcsi.span('st', 372);yt.setConfig({'TIMING_ACTION': "watch,watch7",'TIMING_INFO': {"yt_pt": "flash", "yt_ad": 0, "yt_lt": "cold", "e": "903945,934502,916807,914082,916612", "yt_li": 0, "yt_spf": 0, "ei": "vDP5UdvYGMPz8APaz4CwBg"}});    </script>
+<script>yt.setConfig({'XSRF_TOKEN': "S7wlZxBg8NMIQ0NKThSPpDRnlSl8MTM3NTM3MjYwNEAxMzc1Mjg2MjA0",'XSRF_REDIRECT_TOKEN': "_0xOQI8QCGAGfILdQ8TK7U298RF8MTM3NTM3MjYwNEAxMzc1Mjg2MjA0",'XSRF_FIELD_NAME': "session_token"});</script><script>yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);</script><script>if (window.ytcsi) {ytcsi.tick("js_foot", null, '');}</script>  <div id="debug"></div>
+</body></html>
